@@ -1,0 +1,11 @@
+Hi,
+
+This is a tool which gives you the current weather. 
+
+By using this tool you can get the weather for next 5 days also.
+
+This tool is made by using PYQT5 and OpenWeather Api.
+
+Other dependencies are :-
+
+Request Library for API calling
